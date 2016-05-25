@@ -1,23 +1,27 @@
 # Pixel Pi Craft
 
-Python code to prep 
+Rasbian installations to be pre loaded with picraft 
+<http://picraft.readthedocs.io/en/release-0.6/install.html>
 
-Basics
+Also to clone the pixelpicraft repo
 
-  - mcpi utility import
+## Python code to prep 
+
+### Basics
+
   - world setup  
-    - erase all
+    - erase all ?
     - put frame border 
   - clear frame 
   - save frame  
   - load frame 
   
 
-Double view 
+### Double view 
 
-  - 
+  - ?
 
-Transformations
+### Transformations
 
   - fill
     - all
